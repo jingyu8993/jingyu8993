@@ -1,6 +1,14 @@
-YY|一起看,#genre#
+🌞雷蒙影视PV,#genre#
+雷蒙影视主题曲 TS1,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong1.mp4
+雷蒙影视主题曲 TS2,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
 
- 举起手来-惊险抗日,http://allinone.netsite.cc/huya/13303478
+雷蒙影视主题曲 TS1,https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong1.mp4
+雷蒙影视主题曲 TS2,https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
+  
+雷蒙影视概念宣传片 PV1,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
+雷蒙影视概念宣传片 PV2,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
+雷蒙影视概念宣传片 PV3,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV3.mkv
 
-
- 举起手来-惊险抗2日,http://127.0.0.1:35456/yy/1382736877
+雷蒙影视概念宣传片 PV1,https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
+雷蒙影视概念宣传片 PV2,https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
+雷蒙影视概念宣传片 PV3,https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV3.mkv
